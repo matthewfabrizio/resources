@@ -10,7 +10,7 @@ https://www.tldp.org/LDP/Linux-Filesystem-Hierarchy/html/foreward.html
 
 # File Permissions
 
-http://www.filepermissions.com/
+[Permissions Visual / Calculator](http://www.filepermissions.com/)
 
 *Quick Cheat Sheet:*
 
@@ -18,40 +18,65 @@ http://www.filepermissions.com/
 
 # Git
 
-https://githowto.com/setup
+[Simple Setup](https://githowto.com/setup)
 
-https://stackoverflow.com/questions/315911/git-for-beginners-the-definitive-practical-guide?rq=1
+[Beginner Guide](https://stackoverflow.com/questions/315911/git-for-beginners-the-definitive-practical-guide?rq=1)
 
-https://rachelcarmena.github.io/2018/12/12/how-to-teach-git.html
+[Git Explanation](https://rachelcarmena.github.io/2018/12/12/how-to-teach-git.html)
+
+### Branching Strategies
+
+[Release Flow](https://docs.microsoft.com/en-us/azure/devops/learn/devops-at-microsoft/release-flow)
+
+[Git Flow](http://nvie.com/posts/a-successful-git-branching-model/)
+
+[Github Flow](https://guides.github.com/introduction/flow/)
+
+[Gitlab Flow](https://about.gitlab.com/2014/09/29/gitlab-flow/)
+
+[Bitbucket Flow](https://www.atlassian.com/blog/archives/simple-git-workflow-simple)
+
+### Trunk Based Development
+
+https://trunkbaseddevelopment.com/
+
+https://www.infoq.com/news/2018/04/trunk-based-development/ (5min read)
+
+### Trunk Based vs. Git Flow
+
+[Trunk vs GitFlow](https://www.toptal.com/software/trunk-based-development-git-flow) (5min read)
+
+### Rebase
+
+[Rebase In-Depth](https://git-rebase.io/) (15-20min read)
 
 ### Video Guides
 
-*Advanced Git Usage:*
-https://www.youtube.com/watch?v=0SJCYPsef54
+[Advanced Git Usage](https://www.youtube.com/watch?v=0SJCYPsef54)
 
 # RPM
 
-*RPM Package Database:*
-https://rpmfind.net/linux/rpm2html/search.php?query=&submit=Search+...&system=&arch=
+[RPM Package Database](https://rpmfind.net/linux/rpm2html/search.php?query=&submit=Search+...&system=&arch=)
 
 # Shell Scripting
 
-*Bash Style Guide:*
-https://google.github.io/styleguide/shell.xml
+*Shell Script Styling:*
 
-*Shell Scripting Resource:*
+[Bash Style Guide (Google)](https://google.github.io/styleguide/shell.xml)
+
+*Shell Script Debugging:*
+
+[Explain Shell](https://explainshell.com/)
+
+[Shell Check](https://www.shellcheck.net/)
+
+*Shell Scripting Resources:*
+
 http://www.shelldorado.com/
-
-*Break down shell commands:*
-https://explainshell.com/
-
-*Syntax Proofreading:*
-https://www.shellcheck.net/
 
 # TTY
 
-*The TTY Demystified:*
-https://www.linusakesson.net/programming/tty/
+[The TTY Demystified](https://www.linusakesson.net/programming/tty/)
 
 # /dev/random
 
@@ -68,14 +93,17 @@ https://www.2uo.de/myths-about-urandom
 
 # apt
 
-*HTTPS:*
-https://whydoesaptnotusehttps.com/
+[Why does apt not use HTTPS?](https://whydoesaptnotusehttps.com/)
 
 # pushd; popd
 
 https://agilesysadmin.net/understanding-pushd-and-popd/
 
+# tar
+
+[Basic Introduction](https://linuxacademy.com/blog/linux/the-tar-command-bash-basics/)
+
 # Blogs
 
-*Linux Inside:*
-https://0xax.gitbooks.io/linux-insides/
+[Linux Inside](https://0xax.gitbooks.io/linux-insides/)
+- A look into the Linux kernel.
