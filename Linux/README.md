@@ -107,3 +107,18 @@ https://agilesysadmin.net/understanding-pushd-and-popd/
 
 [Linux Inside](https://0xax.gitbooks.io/linux-insides/)
 - A look into the Linux kernel.
+
+# DevOps
+
+['Getting into DevOps' thread 2019 - Reddit](https://www.reddit.com/r/devops/comments/bvqyrw/monthly_getting_into_devops_thread_201906/)
+
+## Introduction
+[What is DevOps? - 10min read](https://aws.amazon.com/devops/what-is-devops/)
+
+## Roadmap
+
+[DevOps Roadmap - GitHub](https://github.com/kamranahmedse/developer-roadmap#devops-roadmap)
+
+## Books
+
+[Site Reliability Engineering - Google](https://landing.google.com/sre/books/)
